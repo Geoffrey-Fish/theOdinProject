@@ -1,0 +1,40 @@
+* {
+    /*background-image: url("./OIP.jfif");
+    background-position: center;
+    background-repeat: repeat;
+    */
+    background-color: rgb(255, 255, 255);
+}
+
+#headline {
+    color: gold;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+#bam {
+    color: green;
+    text-align: center;
+    font-weight: 200;
+}
+
+.colored {
+    color: black;
+    background-color: beige;
+}
+
+.row {
+    color: red;
+    font-size: large;
+}
+
+li {
+    color: brown;
+    font-size: large;
+}
+
+.list {
+    color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

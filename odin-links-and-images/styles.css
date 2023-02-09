@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(118, 173, 221);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+    font-size: 15px;
+}
+
+#tableOne {
+    background-color: violet;
+    text-align: end;
+    padding: 8px;
+    border: 1px solid black;
+}

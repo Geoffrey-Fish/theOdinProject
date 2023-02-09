@@ -1,0 +1,27 @@
+/* {
+    background-color: black;
+    color: white;
+}*/  /*this overrides it all!?! Why?*/
+
+.headline{
+    font-weight:500;
+    color:blueviolet;
+    background-color: aliceblue;
+}
+
+#title {
+    color:green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:300
+}
+#bullets{
+    color:red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    font-size-adjust: inherit;
+}
+
+img{
+    height: 250px;
+    width: auto;
+}
